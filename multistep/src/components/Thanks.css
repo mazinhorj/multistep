@@ -1,0 +1,32 @@
+.thanks_container {
+    text-align: center;
+}
+
+.thanks_container h2 {
+    margin-bottom: 1rem;
+}
+
+.thanks_container p {
+    font-size: .8rem;
+    margin-bottom: .5rem;
+}
+
+.thanks_container h3 {
+    margin: 1rem 0;
+}
+
+.review_data {
+    text-align: left;
+}
+
+.review_data svg {
+    margin-left: 8px;
+}
+
+.review_data span {
+    font-weight: bold;
+}
+
+#emoji {
+    font-size: 1.2rem;
+}

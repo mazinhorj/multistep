@@ -40,7 +40,7 @@ function App() {
     <div className="app">
       <div className="header">
         <h1>Deixe sua avaliação</h1>
-        <p>Ficamos felizes com sua visita. Utilize o formulário abaixo para deixar suas sujestões e/ou críticas.</p>
+        <p>Gostei da sua visita. Utilize o formulário abaixo para deixar suas sujestões e/ou críticas sobre meus projetos.</p>
       </div>
       <div className="form_container">
         <Steps currentStep={currentStep} />
